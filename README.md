@@ -4,7 +4,7 @@
 **vidhata0428/vidhata0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F79D&center=true&vCenter=true&width=435&lines=Hi+I'm+a+Data+Scientist;Building+Credit+Risk+Models;Automating+Decisions+With+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F79D&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidhata;Solver+of+puzzles+in+data;Fueled+by+curiosity+and+coffee)](https://git.io/typing-svg)
 
 # 👋 Hey there, I’m Vidhata
 
