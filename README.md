@@ -33,13 +33,15 @@
 ---
 ## 🖥️ IDEs I Use
 
+## 🖥️ IDEs I Use
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/sql-server.png" width="48"/><br>SSMS
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48"/><br>SSMS
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" width="80"/><br>SAS Enterprise
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SAS_logo.svg" width="60"/><br>SAS
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48"/><br>Tableau
@@ -55,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ### 🔍 Currently Exploring
