@@ -31,10 +31,35 @@
 ![Alteryx](https://img.shields.io/badge/Alteryx-0077C8?style=for-the-badge&logo=alteryx&logoColor=white)
 
 ---
+## 🖥️ IDEs I Use
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/sql-server.png" width="48"/><br>SSMS
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" width="80"/><br>SAS Enterprise
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48"/><br>Tableau
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/><br>Jupyter
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/visual-studio.png" width="48"/><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Spyder_logo.svg" width="48"/><br>Spyder
+    </td>
+  </tr>
+</table>
+
 
 ### 🔍 Currently Exploring
 
-- 📚 Interpretable Machine Learning (SHAP, LIME)
+- 📚 Interpretable Machine Learning 
 - 🏦 Advanced credit risk modeling strategies
 - ⚡ High-performance SQL for big data environments
 
@@ -50,4 +75,8 @@
 ### ☕ Let’s Connect
 
 If you're into data, code, or creative ways to solve boring problems — you’re my kind of person.
+
+## 💬 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
