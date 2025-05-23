@@ -31,7 +31,6 @@
 ![Alteryx](https://img.shields.io/badge/Alteryx-0077C8?style=for-the-badge&logo=alteryx&logoColor=white)
 
 ---
-## 🖥️ IDEs I Use
 
 ## 🖥️ IDEs I Use
 
@@ -41,7 +40,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48"/><br>SSMS
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SAS_logo.svg" width="60"/><br>SAS
+      <img src="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg" width="60"/><br>SAS
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48"/><br>Tableau
@@ -53,7 +52,7 @@
       <img src="https://img.icons8.com/color/96/000000/visual-studio.png" width="48"/><br>VS Code
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Spyder_logo.svg" width="48"/><br>Spyder
+      <img src="https://commons.wikimedia.org/wiki/File:Spyder_logo.svg" width="48"/><br>Spyder
     </td>
   </tr>
 </table>
