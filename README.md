@@ -29,6 +29,8 @@
 ![SAS](https://img.shields.io/badge/SAS-0033A0?style=for-the-badge&logo=sas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0077C8?style=for-the-badge&logo=alteryx&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 ---
 
