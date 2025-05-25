@@ -54,7 +54,7 @@
       <img src="https://img.icons8.com/color/96/000000/visual-studio.png" width="48"/><br>VS Code
     </td>
     <td align="center">
-      <img src="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg" width="60"/><br>SAS
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Spyder_logo.svg/500px-Spyder_logo.svg.png" width="48"/><br>Spyder
     </td>
   </tr>
 </table>
