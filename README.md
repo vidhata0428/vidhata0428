@@ -42,7 +42,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48"/><br>SSMS
     </td>
     <td align="center">
-      <img src="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg" width="60"/><br>SAS
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SAS_logo_horiz.svg" width="120"/><br>SAS
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48"/><br>Tableau
@@ -54,7 +54,7 @@
       <img src="https://img.icons8.com/color/96/000000/visual-studio.png" width="48"/><br>VS Code
     </td>
     <td align="center">
-      <img src="https://commons.wikimedia.org/wiki/File:Spyder_logo.svg" width="48"/><br>Spyder
+      <img src="https://commons.wikimedia.org/wiki/File:SAS_logo_horiz.svg" width="60"/><br>SAS
     </td>
   </tr>
 </table>
