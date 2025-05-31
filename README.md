@@ -42,10 +42,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48"/><br>SSMS
     </td>
     <td align="center">
-      <a href="https://www.sas.com/en_us/software/enterprise-guide.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SAS_logo_horiz.svg" width="120"/><br>
-  SAS Enterprise Guide
-</a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SAS_logo_horiz.svg" width="120"/><br>SAS
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48"/><br>Tableau
