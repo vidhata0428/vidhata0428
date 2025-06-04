@@ -8,7 +8,7 @@
 
 # 👋 Hey there, I’m Vidhata
 
-🚀 **Data Scientist** | SAS • SQL • Python • Tableau  
+🚀 **Data Analyst** | SAS • SQL • Python • Tableau  
 🎯 Turning messy data into **predictive power**
 
 ---
